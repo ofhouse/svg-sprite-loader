@@ -1,6 +1,6 @@
 {
   "name": "@fwh/svg-sprite-loader",
-  "version": "4.1.6",
+  "version": "4.1.6-patch",
   "description": "Webpack loader for creating SVG sprites",
   "keywords": [
     "svg",
